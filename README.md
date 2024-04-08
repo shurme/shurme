@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a game called "The Purpose"
-- 🌱 I’m currently learning Computer Science and engineering in ISEP (Instituto Superior de Engenharia do Porto)
-- 🤔 I’m looking for help with Unity game development
-- ⚡ Fun fact: 
+- 🔵 I’m currently working on a game called "The Purpose"
+- 🔴 I’m currently learning Computer Science and engineering in ISEP (Instituto Superior de Engenharia do Porto)
+- 🔵 I’m looking for help with Unity game development
+- 🔴 Fun fact: 
