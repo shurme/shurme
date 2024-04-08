@@ -1,3 +1,4 @@
+![Image](image.gif)
 ### Hi there 👋
 
 - 🔵 I’m currently working on a game called "The Purpose"
